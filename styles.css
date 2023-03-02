@@ -1,0 +1,52 @@
+body{
+    background-color: #3830A1;
+}
+#site{
+    /* Definimos a largura da página */
+  width:1000px;
+  /* Definirmos a altura da página*/
+  height:700px;
+  /* Aqui definiremos a posição que a página ocupará na tela, nesse caso estamos definindo que fique centralizado na tela*/
+  /*top : posição de cima */
+  margin-top:0;
+  /* left: posição de esquerda*/
+  margin-left:auto;
+  /* bottom : posição de baixo */
+  margin-bottom:0;
+  /* right : posição de direita */
+  margin-right:auto;
+}
+
+#cabecario{
+    width:1000px;
+    height:200px;
+    background: #FA1836;
+}
+
+#conteudos{
+    margin-top: 30px;
+    background: #A7988B;
+    width: 250px;
+    height: 400px;
+    display: inline-block;
+}
+
+#frases{
+    margin-top: 30px;
+    margin-left: 25px;
+    background: #F1EBE4;
+    width: 720px;
+    height: 400px;
+    display: inline-block;
+}
+
+#footer{
+    margin-top: 30px;
+    width:1000px;
+    height:200px;
+    background: #FA1836;
+}
+
+h1{
+    color: white;
+}

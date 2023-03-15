@@ -1,17 +1,42 @@
 body{
     background-color: #3830A1;
+    margin:0;
+    padding:0;
+    border:0;
 }
 #site{
     /* Definimos a largura da página */
-  width:980px;
+  width:1200px;
   /* Definirmos a altura da página*/
-  height:700px;
+  height:800px;
+  
 }
 #cabecario{
+    width: 1200px;
+    height:60px;
+    background-color:red;
 }
 
 #frases{
 }
 
 #footer{
+    
+}
+
+ul {
+    margin: 0;
+    padding:0;  
+}
+ 
+li {
+    font-size:30px;
+    list-style: none; 
+    margin: 10px;
+    margin-top: 10px;
+    display: inline;
+}
+
+a {
+    color:yellow;
 }
